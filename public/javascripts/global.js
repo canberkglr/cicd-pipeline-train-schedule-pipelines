@@ -5,7 +5,7 @@ $(document).ready(function() {
   populateTrains();
 
 });
-asd
+
 function populateTrains() {
   var trainsContent = '';
 
